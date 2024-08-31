@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+.virtual_documents
+links.csv
+movies.csv
+ratings.csv
+README.txt
+scrapper.py
+tags.csv
